@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://github.com/bariyer/bariyer/server/express/README.md">
-    <img width="256" alt="bariyer sub brand express logo" src="https://user-images.githubusercontent.com/29407019/134476716-61a6cff3-8122-4c45-bb10-669406702d6e.png">
+    <img width="180" alt="bariyer sub brand express logo" src="https://user-images.githubusercontent.com/29407019/134476716-61a6cff3-8122-4c45-bb10-669406702d6e.png">
   </a>
   <a href="https://github.com/bariyer/bariyer/server/fastify/README.md">
-    <img width="256" alt="bariyer sub brand fastify logo" title="bariyer sub brand fastify logo" src="https://user-images.githubusercontent.com/29407019/134486641-05eb08d6-a50d-40a9-a38c-4c337f36ed71.png">
+    <img width="180" alt="bariyer sub brand fastify logo" title="bariyer sub brand fastify logo" src="https://user-images.githubusercontent.com/29407019/134486641-05eb08d6-a50d-40a9-a38c-4c337f36ed71.png">
   </a>
 
   <!-- Coming Soon :) -->
